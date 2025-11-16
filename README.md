@@ -1,76 +1,97 @@
-2048 Game — Classic Puzzle Built with JavaScript
+# 2048 Game — Classic Puzzle Built with JavaScript
 
-This project is a recreation of the popular 2048 puzzle game, implemented using clean JavaScript, HTML, and CSS. It features smooth tile movement, score tracking, keyboard controls, and responsive UI. The goal is simple: combine matching tiles to reach 2048 — or go even further!
+This project is a recreation of the popular **2048 puzzle game**, implemented using clean **JavaScript**, **HTML**, and **CSS**.
+It features smooth tile movement, score tracking, keyboard controls, and a responsive UI.
 
-🔗 Live Preview
-Live Demo
+The goal is simple: **combine matching tiles to reach 2048 — or go even further!**
+
+---
+
+## 🔗 Live Preview
+
+**Live Demo**
 
 Play the live version of the game here:
 [👉 2048 Game Demo](https://lublubuterbrodi.github.io/2048-Game/)
 
-⚠️ Ensure the link is publicly accessible. Test it in incognito mode to verify functionality.
+> ⚠️ Make sure the link is publicly accessible.
+> Test it in an incognito/private window to verify it works correctly.
 
-🎨 Design Reference (If Applicable)
+---
 
-If the game design was inspired by a Figma prototype, you can add the link here.
-If not, feel free to delete this section.
+## 🎨 Design Reference (Optional)
 
-🛠 Technologies Used
-Core
+If the game design was inspired by a Figma prototype, you can add the link here, for example:
 
-HTML5 — game layout and structure
+> **Design Prototype (Figma):** _add link here_
 
-CSS3 — styling and animations
+If not applicable, you can safely remove this section from the README.
 
-JavaScript (ES6) — game logic and interactions
+---
 
-UI / UX
+## 🛠 Technologies Used
 
-Smooth tile animations
+### Core
 
-Responsive layout
+- **HTML5** — game layout and structure
+- **CSS3** — styling and animations
+- **JavaScript (ES6)** — game logic and interactions
 
-Keyboard arrow-key support
+### UI / UX
 
-Dynamic tile generation
+- **Smooth tile animations**
+- **Responsive layout**
+- **Keyboard arrow-key support**
+- **Dynamic tile generation**
+- **Score counting and game-over logic**
 
-Score counting and game-over logic
+### Development Tools
 
-Development Tools
+- **Git / GitHub** — version control and deployment
+- **VS Code** — development environment
 
-Git / GitHub — version control and deployment
+---
 
-VS Code — development environment
-
-🚀 Getting Started
+## 🚀 Getting Started
 
 Follow these steps to run the project locally:
 
-1. Clone the repository:
-   git clone https://github.com/lublubuterbrodi/2048-Game.git
-   cd 2048-Game
+### 1. Clone the repository
 
-2. Install dependencies:
+```bash
+git clone https://github.com/lublubuterbrodi/2048-Game.git
+cd 2048-Game
+```
 
-This project does not require dependencies (no build tools).
-You can skip this step.
+### 2. Install dependencies
 
-3. Run the project locally:
+This project does **not** require any dependencies or build tools.
+You can **skip this step**.
 
-Simply open index.html in your browser.
+---
 
-✨ Features
+### 3. Run the project locally
 
-Classic 2048 mechanics — swipe/arrow-key movement
+Simply open **index.html** in your browser:
 
-Smooth Animations — tiles slide and merge fluidly
+- Double-click `index.html`, or
+- Right-click → **Open With** → your preferred browser
 
-Responsive Layout — playable on desktop and mobile
+---
 
-Random Tile Generation — ensuring replayability
+## ✨ Features
 
-Score Tracking — live updates with each merge
+- **Classic 2048 mechanics** — swipe/arrow-key movement
+- **Smooth animations** — tiles slide and merge fluidly
+- **Responsive layout** — playable on desktop and mobile
+- **Random tile generation** — ensuring replayability
+- **Score tracking** — live updates with each merge
+- **Game over detection** — informs you when no moves are left
+- **Clean & minimalist UI** inspired by the original 2048
 
-Game Over Detection
+---
 
-Clean & Minimalist UI inspired by the original 2048
+## 🤝 Contributions
+
+Feel free to **fork the project**, open **issues**, or submit **pull requests**
+with improvements, bug fixes, or new features.
